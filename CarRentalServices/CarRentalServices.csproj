@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Acme.CarRentalService.CarRentalServices</AssemblyName>
+    <RootNamespace>Acme.CarRentalService.CarRentalServices</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\DAL\DAL.csproj" />
+    <ProjectReference Include="..\MessagingServices\MessagingServices.csproj" />
+  </ItemGroup>
+
+
+</Project>

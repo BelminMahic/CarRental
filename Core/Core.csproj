@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Acme.CarRentalService.Core</AssemblyName>
+    <RootNamespace>Acme.CarRentalService.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
