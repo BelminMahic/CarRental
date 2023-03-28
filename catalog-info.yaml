@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: car-rental
+  description: Car rental C# application
+  tags:
+    - dotnet
+    - backend
+spec:
+  type: service
+  lifecycle: production
+  owner: backstage-devs
